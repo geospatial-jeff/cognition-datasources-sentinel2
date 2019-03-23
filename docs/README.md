@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/geospatial-jeff/cognition-datasources-sentinel2.svg?style=svg)](https://circleci.com/gh/geospatial-jeff/cognition-datasources-sentinel2)
+
 ## Sentinel2
 
 | Parameter | Status |
