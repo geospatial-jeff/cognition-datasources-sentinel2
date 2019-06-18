@@ -12,12 +12,12 @@
 ##### Properties
 | Property | Type | Example |
 |--------------------------|-------|-------------|
-| eo:gsd | float | 10.0 |
+| eo:gsd | int | 10 |
 | eo:epsg | int | 32614 |
 | eo:instrument | str | 'MSI' |
 | eo:platform | str | 'sentinel-2b' |
-| eo:off_nadir | float | 0.0 |
-| eo:cloud_cover | float | 100.0 |
+| eo:off_nadir | int | 0 |
+| eo:cloud_cover | int | 100 |
 | sentinel:utm_zone | int | 13 |
 | sentinel:latitude_band | str | 'T' |
 | sentinel:grid_square | str | 'GJ' |
