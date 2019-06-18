@@ -1,2 +1,2 @@
 circle-token: fc6914c8b468be383ce4419c00f9662af1a8bebd
-layer-arn: arn:aws:lambda:us-east-1:725820063953:layer:sentinel2-driver:1
+layer-arn: arn:aws:lambda:us-east-1:725820063953:layer:sentinel2-driver:2
